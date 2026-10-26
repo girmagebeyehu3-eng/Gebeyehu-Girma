@@ -1,0 +1,6 @@
+{
+  "name": "Gebeyehu Player",
+  "description": "Smart music player inspired by Boomplay with synchronized lyrics, offline downloads, social sharing, and background playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
